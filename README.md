@@ -1,6 +1,6 @@
-# 2025 Kjt Patch 🎮
+# 2025 Kjt Patch 🎮 ed. smolmedic
 
-An interactive connections puzzle game inspired by [thomaswc.com's 2025 puzzle](https://thomaswc.com/2025.html), created to commemorate the year 2025 = 45×45.
+An interactive connections puzzle game inspired by [thomaswc.com's 2025 puzzle](https://thomaswc.com/2025.html), created to commemorate the year 2025 = 45×45. Edited to have more UK-centric categories, because I'm me.
 
 ## 📋 Description
 
